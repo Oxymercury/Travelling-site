@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Travelling-site/static/css/main.f46ef2ad.css",
+    "main.js": "/Travelling-site/static/js/main.febcb91d.js",
+    "static/media/home-background.jpg": "/Travelling-site/static/media/home-background.caba86e5cd252cb9efd4.jpg",
+    "static/media/section-background.jpg": "/Travelling-site/static/media/section-background.122e8ef02b8e3a49df2e.jpg",
+    "static/media/destinations-4.jpg": "/Travelling-site/static/media/destinations-4.cef1baec5fa03da77cd6.jpg",
+    "static/media/destinations-3.jpg": "/Travelling-site/static/media/destinations-3.c107b4255faf3ca77846.jpg",
+    "static/media/destinations-2.jpg": "/Travelling-site/static/media/destinations-2.5321ceeef0ea9a68efdf.jpg",
+    "static/media/featured-3.jpg": "/Travelling-site/static/media/featured-3.5441305ff9c8b7968df5.jpg",
+    "static/media/destinations-1.jpg": "/Travelling-site/static/media/destinations-1.72cbcf5e0dc51361ebf7.jpg",
+    "static/media/featured-1.jpg": "/Travelling-site/static/media/featured-1.dc2f5db351abd66022e8.jpg",
+    "static/media/featured-2.jpg": "/Travelling-site/static/media/featured-2.aad21adbf2564d26a714.jpg",
+    "static/media/plane.png": "/Travelling-site/static/media/plane.e00d78ffada39c3bda95.png",
+    "index.html": "/Travelling-site/index.html",
+    "main.f46ef2ad.css.map": "/Travelling-site/static/css/main.f46ef2ad.css.map",
+    "main.febcb91d.js.map": "/Travelling-site/static/js/main.febcb91d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f46ef2ad.css",
+    "static/js/main.febcb91d.js"
+  ]
+}
