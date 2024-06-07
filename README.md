@@ -13,7 +13,6 @@ Travelling-Site is a front-end project built using HTML, Tailwind CSS, and React
 - [Technologies Used](#technologies-used)
 - [Acknowledgements](#acknowledgements)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Description
